@@ -5,8 +5,8 @@
     justify-content: center;
     height: 82.5vh;
 }
-.button{
-    padding: 10px;
-    border-radius: 10px;
-    display: block;
+img{
+    height: 100px;
+    width: 200px;
+    cursor: pointer;
 }
